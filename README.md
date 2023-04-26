@@ -1,2 +1,5 @@
 # clearmessage-discord
 developed script to clear automatic discord messages
+
+
+  IN THIS SCRIPT WE WILL HAVE SOME BASIC THINGS FOR YOU TO DO, WE HAVE AN AUTOMATIC CHAT CHANNEL DETECTION SYSTEM AND LINKS, FILES AND MESSAGES DETECTION.
