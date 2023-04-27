@@ -1,11 +1,11 @@
 # clearmessage-discord
   <h2 style="text-align: center;"> RAREWAVE COMPANY </h2> 
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;developed script to clear automatic discord messages
+  <h3 style="text-align: center;"> developed script to clear automatic discord messages </h3>
 
 
-  IN THIS SCRIPT WE WILL HAVE SOME BASIC THINGS FOR YOU TO DO, WE HAVE AN AUTOMATIC CHAT CHANNEL DETECTION SYSTEM AND LINKS, FILES AND MESSAGES DETECTION.
-  EASY EASY  // 0 PROBLEM // ON // BY - DAKOTTA & victornpb
+   <h3 style="text-align: center;"> IN THIS SCRIPT WE WILL HAVE SOME BASIC THINGS FOR YOU TO DO, WE HAVE AN AUTOMATIC CHAT CHANNEL DETECTION SYSTEM AND LINKS, FILES AND    MESSAGES DETECTION.
+   EASY EASY  // 0 PROBLEM // ON // BY - DAKOTTA & victornpb </h3>
   
   <div align="center">
   <img src="https://user-images.githubusercontent.com/131923431/234726708-3be24626-4f4e-4451-9d6a-5be623229b08.png" width="700px" />
